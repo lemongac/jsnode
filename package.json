@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "An",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mjjonone",
+  "license": "MIT",
+  "dependencies": {
+    "@onemjj/npm-ws": "latest"
+  },
+  "engines": {
+    "node": ">=16.5.0"
+  }
+}
